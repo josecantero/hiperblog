@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(255, 20, 20);
 }
 
 .box{
@@ -9,7 +9,7 @@ body{
     width: 400px;
     height: default;
     margin: 20px;
-    background-color: rgb(224, 84, 84);
+    background-color: rgb(255, 255, 255);
     display: block;
     justify-content: center;
 }
